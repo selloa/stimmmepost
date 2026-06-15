@@ -1,0 +1,100 @@
+﻿# scene: room5
+# room: 5
+# format: parser v1
+
+goto 76 120
+face up
+play 35
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+play 36
+line "..."
+play 39
+face down
+line "Hallo."
+line "..."
+line "Ich bin Bernard"
+line "und nicht Ber-nerd..."
+line "auch wenn das fiese Teenies manchmal sagen..."
+line "..."
+face right
+line "..."
+line "Wie findest du mein neues Zimmer?"
+line "Es ist viel schöner als ich es in Erinnerung habe..."
+face up
+line "..."
+line "und gleichzeitig"
+line "sieht es genau so aus"
+line "wie ich es in Erinnerung habe."
+line "*weird*"
+walk 76 right
+line "Heute ist ein schöner Tag!"
+walk left
+line "walk"
+walk left
+walk left
+face down
+line "Viel zu schön um Computer zu spielen..."
+line "Nicht?"
+line "Na gut."
+walk 10 left
+face down
+line "Lass mich die neuesten News checken..."
+goto 76 120
+face up
+line "..."
+line "..."
+line "..."
+line "..."
+line ". . ."
+line ". . ."
+line "*bzzzt"
+line "*bzzt"
+line "*kschhhhhhhhhh"
+line "*oioiookschhhshccskoioioiiiooo"
+line "*click"
+line ". . ."
+line "Ok."
+line "Ich bin drin..."
+line "..."
+face down
+line "..."
+line "Hast du etwas gesagt?"
+line "Nein? Ok."
+face up
+line "..."
+line "Interessant..."
+line "im Forum ist eine Menge los..."
+line "Heißt das, dass ich eine neue Folge bekommeß!"
+walk 10 right
+face down
+stop music
+play 12
+line "Eine neue Folge..."
+line "..."
+line "mit mir!"
+line "Das wäre doch endlich mal was"
+goto 76 120
+face up
+line ". . ."
+line "Achso nee..."
+line "letzer Post ist... 18 Jahre her. puuh"
+line "Aber da ist ganz viel anderes los..."
+play 35
+line "Hier sind die Headlines..."
+line "..."
+play 43
+line "AmigaMaster wühlt sich tiefer in das Wiki..."
+line "...Rocco ist wieder im Forum..."
+line "...und hat ein neues Update aufgespielt...toll!"
+line "ManiacTwister hat sogleich das Theme nachgelegt!"
+line "Wow. Eine neue Anmeldung im Wiki..."
+line "...und ein Lurker hat sich zu Wort gemeldet..."
+line "...selloa hat ein neues Tool geschrieben..."
+line "DOMM hat schnell ein paar Spieler gefunden..."
+line "...mit frischen Rezensionen und Walkthroughs..."

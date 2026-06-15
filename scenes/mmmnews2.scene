@@ -1,0 +1,136 @@
+﻿# scene: mmmnews1
+# room: 5
+# format: parser v1
+
+goto 76 120
+face up
+line "Was ist denn das hier?"
+line "Im Notm Forum schreibt ein Spanier,.."
+line "dass es in Valencia einen Night of the Meteor"
+line "Escape Room gibt?! Sachen gibts..."
+line "Mit Logo und allem..."
+line "www.escapelabvalencia.es"
+line "lustig..."
+line "und die Episodenübersicht sind im Forum"
+line "und im Wiki aufgefrischt..."
+line "... seit ich angefangen habe zu lesen ..."
+line "... sind wieder 3 neue Änderungen im Wiki ..."
+line "... und LogicDeluxe haut ein Deponia Update ...."
+line "... nach dem anderen heraus ..."
+face down
+line "..."
+line "Gar nicht schlecht!"
+goto 152 120
+face down
+line "Da ist ja richtig was los!"
+line "Vielleicht wird das ja doch noch was..."
+line "mit meiner Episode..."
+walk 10 right
+line "aber vielleicht..."
+line "..."
+line "muss gut Ding einfach Weile haben..."
+line "waölk 10 left"
+walk 1ß0 left
+walk 1ß0 left
+walk 1ß0 left
+walk 1ß0 left
+walk 1ß0 left
+face down
+line "...und sonst..."
+line "...vielleicht eine Runde Maniac Mansion Deluxe spielen.."
+line "...auch wenn ich da noch ein wenig ängstlich bin."
+goto 152 120
+face down
+line "Wie dem auch sei..."
+line "Ich werde noch ein bisschen lesen..."
+line "...und mich später mit den anderen treffen."
+line "Dafür will ich aber alleine sein, also..."
+line "machs gut!"
+line "und bis bald!"
+walk 10 right
+line "..."
+face up
+walk up
+walk left
+walk up
+face up
+line "..."
+face down
+line "..."
+face up
+line "..."
+line "..."
+face up
+face down
+line "..."
+line "bist du immernoch da?"
+line "Ich bin sehr schlecht im Auflegen..."
+line "... also mach du..."
+line "..."
+face up
+line "..."
+line "..."
+line "..."
+face down
+line "... ja ich dich auch ..."
+line "... ja ..."
+line "... immer einmal mehr als du  ...."
+line "... nein du legst auf ..."
+line "... nein du legst auf ..."
+face up
+line "..."
+line "..."
+line "..."
+line "..."
+face down
+line "..."
+line "Komm schon"
+line "Lass mich in Ruhe ... lesen"
+line "..."
+line "..."
+face up
+line "..."
+line "..."
+face down
+line "ICH BIN 16 JAHRE ALT! LASS MICH LESEN !"
+line "..."
+line "..."
+line "entschuldigung..."
+face up
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+goto 172 120
+face up
+line "..."
+line "..."
+line "..."
+goto 142 120
+line "..."
+line "..."
+face down
+line "..."
+line "..."
+face left
+line "..."
+line ". . ."
+line "..."
+line "hach..."
+line "NA GUT !"
+line "ICH WOLLTE NICHT LESEN !"
+line "ICH WOLLTE EINFACH NUR ALLEINE SEIN, OK?!"
+line "und..."
+line "Computer spielen..."
+line "das mache ich jetzt auch."
+face down
+line "Mach du das doch einfach auch..."
+line "... oder geh auf Twitch zum glotzen."
+line "Tschüss!"
+line "..."
+goto 76 120
+face up
+line "..."
+line "..."

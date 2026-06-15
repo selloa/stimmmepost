@@ -1,0 +1,94 @@
+﻿# scene: room5
+# room: 5
+# format: parser v1
+
+goto 76 120
+face up
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+face right
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+goto 167 120
+face up
+line "..."
+line ".."
+line "..."
+line "..."
+line "..."
+walk right
+face up
+line "..."
+line "..."
+line "..."
+face down
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+line "..."
+walk 10 right
+line "..."
+line "..."
+line "dum di dum"
+line "..."
+line "..."
+line "..."
+walk 10 left
+line "..."
+line "..."
+walk 10 right
+line "... ist das nicht ..."
+line "..."
+line "..."
+line "schon so spät?"
+line "DA MUSS ICH JETZT ABER MAL LOS"
+goto 160
+goto 160 120
+line "NICHTS WIE WEG HIER"
+line "..."
+line "..."
+line "VOR DEM HAUS SIND SCHON DIE ANDEREN"
+line "..."
+line "..."
+face down
+line "ZEIT ABZUHAUEN"
+walk left
+line "..."
+walk left
+line "..."
+walk left
+walk left
+line "..."
+face up
+line "..."
+face left
+line "..."
+walk left
+walk left
+line "..."
+goto 76 120
+face up
+line "... noch kurz ..."
+line "..."
+face down
+line "ES IST GUT JETZT !"
+line "DU WEISST GANZ GENAU WAS ICH HIER MACHE !"
+line "UND ES GEHT DICH GARNIX AN"
+line "ALSO"
+line "..."
+line "..."
+line "..."
+line "geh einfach maniac mansion mania spielen, ok?"
+line "ok."
+face up
