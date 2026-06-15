@@ -1,0 +1,1 @@
+var gamefiles = ['audio.vox', 'mmmnews001.ags', 'acsetup.cfg'];
