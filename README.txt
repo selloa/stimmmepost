@@ -4,27 +4,24 @@ Mini Szenen-Beats schreiben, einsenden, spielen, weiterschreiben.
 
 Regeln
 1) Die Szene soll kurz sein
-1) Die Szene soll am Computer starten und enden
-2) Es dürfen nur erlaubte Kommandos verwendet werden
+2) Es können nur die verfügbaren Kommandos verwendet werden
 
-Die erlaubten Kommandos sind
+Verfügbar Kommandos sind
 
-1) line "deinedialogzeile" 
-für deinen dialog
+) line "deine-dialogzeile" 
 
-2) line "..."
-um kurz zu warten
+) line "..." (1sec warten)
 
-3) goto left (am Computer) | center | right (am Fenster)
-für drei mögliche Positionen
+) goto left | center | right (left = computer; right = fenster)
 
-4) face up | down | left | right
-zum drehen des characters
+) face up | down | left | right (zum drehen des characters)
 
-Das wars. Mehr gibt's nicht.
+3) Die Szene soll am Computer starten und enden
+4) Ansonsten ist alles erlaubt, außer was in den Forenregeln verboten ist
 
-Beispiel (startet und endet am computer | goto left + face up)
 
+Beispiel für einen Szenen-Beat
+start
 "... hmmm ..."
 
 goto center
@@ -35,3 +32,7 @@ face down
 goto right
 "... dum di dum ..."
 "..."
+
+goto left
+face up
+end
