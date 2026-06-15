@@ -1,14 +1,24 @@
-StiMMMe Post - a mmm forum game
-
+# StiMMMe Post - a mmm forum game
 Mini Szenen-Beats schreiben, einsenden, spielen, weiterschreiben.
 
-Regeln
-1) Die Szene soll kurz sein
-2) Es können nur die verfügbaren Kommandos verwendet werden
+## Beispiel für einen Szenen-Beat
 
-Verfügbar Kommandos sind
+start
+line "... hmmm ..."
+goto center
+face down
+line "... warum ist die Banane krumm ..."
+line "..."
+goto right
+line "... dum di dum ..."
+line "..."
+goto left
+face up
+end
 
-) line "deine-dialogzeile" 
+## Verfügbar Kommandos
+
+) line "<deine-dialogzeile>" 
 
 ) line "..." (1sec warten)
 
@@ -16,20 +26,10 @@ Verfügbar Kommandos sind
 
 ) face up | down | left | right (zum drehen des characters)
 
-3) Die Szene soll am Computer starten und enden
+## Regeln
+1) Die Szene soll kurz sein
+2) Es können nur verfügbare Kommandos verwendet werden
+3) Die Szene soll am Computer starten und enden (es ist nur ein Raum verfügbar)
 4) Ansonsten ist alles erlaubt, außer was in den Forenregeln verboten ist
 
 
-Beispiel für einen Szenen-Beat
-start
-"... hmmm ..."
-goto center
-face down
-"... warum ist die Banane krumm ..."
-"..."
-goto right
-"... dum di dum ..."
-"..."
-goto left
-face up
-end
