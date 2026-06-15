@@ -23,16 +23,13 @@ Verfügbar Kommandos sind
 Beispiel für einen Szenen-Beat
 start
 "... hmmm ..."
-
 goto center
 face down
 "... warum ist die Banane krumm ..."
 "..."
-
 goto right
 "... dum di dum ..."
 "..."
-
 goto left
 face up
 end
